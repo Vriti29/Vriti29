@@ -1,14 +1,14 @@
 # 💫 About Me:
 🔭 B.Tech ECE-AI Student at IGDTUW  
-🌱 Currently learning Full Stack Web Development & AI/ML  
-👯 Looking to collaborate on exciting tech projects and hackathons  
-💬 Ask me about Web Development, React, Hackathons & AI  
-⚡ Fun fact: I love building creative projects and participating in hackathons  
+🌱 Currently learning Full Stack Web Development, React & AI  
+👯 Passionate about hackathons, building projects & solving real-world problems  
+💬 Ask me about Web Development, AI Tools & Frontend Projects  
+⚡ Fun fact: I love turning ideas into creative web applications  
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vriti-goyal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vriti-goyal-10b58a321/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Vriti29)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:goyalvriti45@gmail.com)
 
@@ -30,11 +30,27 @@
 
 ---
 
-# 🚀 Projects:
-✨ YouTube Clone Web Application  
-✨ Gym Registration Website  
-✨ Signal Processing using Python  
-✨ AI & Prompt Engineering Projects  
+# 🚀 Featured Projects:
+
+### 🎬 YouTube Clone
+🔹 Responsive YouTube-inspired frontend using HTML, CSS & JavaScript  
+🔹 Designed reusable UI sections and modern video browsing layout  
+
+### 🛒 Amazon Clone
+🔹 Built an e-commerce inspired landing page with responsive design  
+🔹 Focused on UI/UX and component structuring  
+
+### 🤖 YouTube RAG Streamlit
+🔹 AI-powered Retrieval-Augmented Generation project using Python & Streamlit  
+🔹 Explored LLM-based content interaction workflows  
+
+### 🧠 Custom Quiz Generator
+🔹 AI-based MCQ generator using Generative AI concepts  
+🔹 Worked with LLM workflows and automated quiz generation  
+
+### 🌾 Agri-Saarthi
+🔹 Agriculture-focused tech project aimed at assisting farmers with smart solutions  
+🔹 Collaborated in frontend and project integration tasks  
 
 ---
 
@@ -42,7 +58,6 @@
 🏅 Reliance Foundation Scholarship Recipient  
 🏅 Top 20 Teams Nationwide – IIT Guwahati Hackathon  
 🏅 Top 100 Teams – CodeX 2.0 National Hackathon  
-🏅 GARGI PURUSKAR Awardee  
 
 ---
 
@@ -60,9 +75,9 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Vriti29&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Vriti29&icon=5&color=12)](https://visitcount.itsvg.in)
