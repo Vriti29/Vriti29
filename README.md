@@ -30,34 +30,54 @@
 
 ---
 
-# 🚀 Featured Projects:
+# 🚀 Featured Projects
 
-### 🎬 YouTube Clone
-🔹 Responsive YouTube-inspired frontend using HTML, CSS & JavaScript  
-🔹 Designed reusable UI sections and modern video browsing layout  
-
-### 🛒 Amazon Clone
-🔹 Built an e-commerce inspired landing page with responsive design  
-🔹 Focused on UI/UX and component structuring  
-
-### 🤖 YouTube RAG Streamlit
-🔹 AI-powered Retrieval-Augmented Generation project using Python & Streamlit  
-🔹 Explored LLM-based content interaction workflows  
-
-### 🧠 Custom Quiz Generator
-🔹 AI-based MCQ generator using Generative AI concepts  
-🔹 Worked with LLM workflows and automated quiz generation  
-
-### 🌾 Agri-Saarthi
-🔹 Agriculture-focused tech project aimed at assisting farmers with smart solutions  
-🔹 Collaborated in frontend and project integration tasks  
+### 📊 Customer Churn Prediction & Customer Segmentation
+- Built an end-to-end machine learning pipeline to predict customer churn.
+- Performed data preprocessing, feature engineering, customer segmentation (K-Means), and compared models including Random Forest, XGBoost, LightGBM and CatBoost.
+- **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, XGBoost, CatBoost, LightGBM
 
 ---
 
-# 🏆 Achievements:
-🏅 Reliance Foundation Scholarship Recipient  
-🏅 Top 20 Teams Nationwide – IIT Guwahati Hackathon  
-🏅 Top 100 Teams – CodeX 2.0 National Hackathon  
+### 🤖 AI Quiz Generator
+- Developed an AI-powered quiz generation application using transformer-based models.
+- Generated MCQs and short-answer questions from textual content using Hugging Face models.
+- **Tech Stack:** Python, Hugging Face, Transformers
+
+---
+
+### 🔍 YouTube RAG Streamlit
+- Built a Retrieval-Augmented Generation (RAG) application for semantic document retrieval.
+- Explored embeddings, retrieval pipelines, and LLM-based question answering using Streamlit.
+- **Tech Stack:** Python, Streamlit, RAG
+
+---
+
+### 🌱 Agri-Saarthi
+- Contributed to an agriculture-focused platform designed to support farmers through digital solutions.
+- Worked on frontend development and project integration.
+- **Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+### ▶️ YouTube Clone
+- Developed a responsive YouTube-inspired web interface to strengthen frontend development skills.
+- Implemented reusable layouts and responsive design principles.
+- **Tech Stack:** HTML, CSS, JavaScript
+---
+
+# 🏆 Achievements
+
+🏅 Reliance Foundation Scholarship Recipient
+
+🥈 Top 20 Teams (2500+ Teams)
+Entrepreneurship Hackathon – IIT Guwahati
+
+🥉 Top 100 Teams (1400+ Teams)
+CodeX 2.0 National Hackathon
+
+🎖 Gargi Puraskar
+Awarded for academic excellence
 
 ---
 
