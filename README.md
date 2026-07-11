@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 B.Tech ECE-AI Student at IGDTUW  
-🌱 Currently learning Full Stack Web Development, React & AI  
+🌱 Currently learning Full Stack Web Development, ML and DS 
 👯 Passionate about hackathons, building projects & solving real-world problems  
-💬 Ask me about Web Development, AI Tools & Frontend Projects  
+💬 Ask me about Web Development, ML Tools & Frontend Projects  
 ⚡ Fun fact: I love turning ideas into creative web applications  
 
 ---
