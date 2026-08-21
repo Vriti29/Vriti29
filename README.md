@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 B.Tech ECE-AI Student at IGDTUW  
-🌱 Currently learning Full Stack Web Development, ML and DS 
+🌱 Currently learning AI/ML, Data Structure and Core CS. 
 👯 Passionate about hackathons, building projects & solving real-world problems  
 💬 Ask me about Web Development, ML Tools & Frontend Projects  
 ⚡ Fun fact: I love turning ideas into creative web applications  
@@ -31,6 +31,22 @@
 ---
 
 # 🚀 Featured Projects
+
+### 🛡️ [Lockstep — Multi-Signal CIB Detection Engine](https://github.com/Vriti29/LockStep)
+- Engineered an end-to-end forensic pipeline extracting 6 behavioural signals across social networks using TF-IDF trait weighting and top-$k$ cosine similarity graphs.
+- Formulated a degree-preserving permutation null model ($\tau_{\text{floor}}$) to eliminate false-positive organic clusters and Louvain community detection to isolate coordinated campaigns.
+- Benchmarked across 142k+ real-world posts with an interactive FastAPI backend and Cytoscape.js network visualizer.
+- **Tech Stack:** Python, FastAPI, Cytoscape.js, NetworkX, TF-IDF, Graph Analytics
+
+---
+
+### ⚡ [pqlite — Embedded Columnar Parquet Query Engine](https://github.com/Vriti29/pqlite)
+- Developed a pure-Python, zero-dependency Apache Parquet format parser with Thrift compact-protocol metadata decoding.
+- Implemented decoding primitives for plain variable-length byte arrays, dictionary encoding, and bit-packed run-length encoding (RLE).
+- Built custom Snappy block decompression and predicate pushdown filters for fast in-memory columnar query execution.
+- **Tech Stack:** Python, Binary Serialization, Thrift, Snappy Compression, Columnar Storage
+
+---
 
 ### 📊 Customer Churn Prediction & Customer Segmentation
 - Built an end-to-end machine learning pipeline to predict customer churn.
